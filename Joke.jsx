@@ -17,7 +17,7 @@ function Joke() {
 // "Ha-ha!"
 Joke();
 
-// EXPLANATION: (for folks who need it - but common, most of you seriosly should'nt need an explanation)
+// EXPLANATION: (for folks who need it - but common, most of you seriously shouldn't need an explanation)
 //
 // In 'Till I Collapse there is a famous line: "I'll probably never get the props I feel I ever deserve"
 //
